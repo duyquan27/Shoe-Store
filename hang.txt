@@ -1,0 +1,24 @@
+HA01
+Air Jordan1
+0
+88
+12
+5000000
+HA02
+UltraBoost 22
+1
+195
+5
+3890000
+HA03
+SpeedRunner
+7
+10
+0
+19990000
+HA04
+Ananas
+6
+108
+2
+990000
